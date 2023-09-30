@@ -8,7 +8,7 @@ Please find teh below listed design patterns.
 | ---------------------------------------------- | ---------- | ---------- |
 | [SIGNLETON](MDFiles/SingleTonPattern.md)       | FACADE     | ITERATOR   |
 | [PROTOTYPE](MDFiles/PrototypeDesignPattern.md) | PROXY      | OBSERVER   |
-| BUILDER                                        |            | MEDIATOR   |
+| [BUILDER](MDFiles/BuilderDesignPattern.md)     |            | MEDIATOR   |
 | FACTORY                                        |            | STATE      |
 
 - `Creational Patterns`: They will describe how objects are getting created.

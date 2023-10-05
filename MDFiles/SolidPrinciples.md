@@ -1,10 +1,10 @@
 ## Solid Principles
 
-Defined long ago, the SOLID principles are intended to improve the readability, adaptability, extensibility, and maintainability of object-oriented designs. The five SOLID principles of object-oriented class design facilitate the development of understandable, tested software that many developers can use at any time and place.
+Defined long ago, the `SOLID` principles are intended to improve the readability, adaptability, extensibility, and maintainability of object-oriented designs. The five `SOLID` principles of object-oriented class design facilitate the development of understandable, tested software that many developers can use at any time and place.
 
-We give Robert C. Martin, popularly known as Uncle Bob, credit for this idea in his 2000 work, Design Principles and Design Patterns. He’s also known for the best-selling books Clean Code and Clean Architecture. The abbreviation SOLID was later coined by Michael Feathers to illustrate the ideas identified by Uncle Bob.
+We give Robert C. Martin, popularly known as Uncle Bob, credit for this idea in his 2000 work, Design Principles and Design Patterns. He’s also known for the best-selling books Clean Code and Clean Architecture. The abbreviation `SOLID` was later coined by Michael Feathers to illustrate the ideas identified by Uncle Bob.
 
-In this article, we’ll go over each of the SOLID principles, providing TypeScript examples to illustrate and understand them. Let’s get started!
+In this article, we’ll go over each of the `SOLID` principles, providing TypeScript examples to illustrate and understand them. Let’s get started!
 
 ## S: Single-responsibility principle:
 

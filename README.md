@@ -15,4 +15,5 @@ Please find teh below listed design patterns.
 - `Structural Patterns`: This will describe how objects are linked to each other.
 - `Behavioral Patterns`: This will describe how objects communicate with each other.
 
-### [Solid Principles](MDFiles/SolidPrinciples.md)
+## Design Principles
+[Solid Principles](MDFiles/SolidPrinciples.md)

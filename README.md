@@ -16,4 +16,4 @@ Please find teh below listed design patterns.
 - `Behavioral Patterns`: This will describe how objects communicate with each other.
 
 ## Design Principles
-[Solid Principles](MDFiles/SolidPrinciples.md)
+[SOLID Principles](MDFiles/SolidPrinciples.md)

@@ -1,4 +1,4 @@
-## Solid Principles
+## SOLID Principles
 
 Defined long ago, the `SOLID` principles are intended to improve the readability, adaptability, extensibility, and maintainability of object-oriented designs. The five `SOLID` principles of object-oriented class design facilitate the development of understandable, tested software that many developers can use at any time and place.
 

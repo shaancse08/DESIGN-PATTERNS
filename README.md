@@ -14,3 +14,5 @@ Please find teh below listed design patterns.
 - `Creational Patterns`: They will describe how objects are getting created.
 - `Structural Patterns`: This will describe how objects are linked to each other.
 - `Behavioral Patterns`: This will describe how objects communicate with each other.
+
+### [Solid Principles](MDFiles/SolidPrinciples.md)
